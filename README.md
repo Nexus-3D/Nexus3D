@@ -11,7 +11,7 @@ Nexus3D is a Web3-based platform for rapid 3D scene generation, designed to crea
   <a href="https://github.com/Nexus-3D/Nexus3D/network/members"><img src="https://img.shields.io/github/forks/Nexus-3D/Nexus3D" alt="Forks Badge"/></a>
   <a href="https://github.com/Nexus-3D/Nexus3D/pulls"><img src="https://img.shields.io/github/issues-pr/Nexus-3D/Nexus3D" alt="Pull Requests Badge"/></a>
   <a href="https://github.com/Nexus-3D/Nexus3D/issues"><img src="https://img.shields.io/github/issues/Nexus-3D/Nexus3D" alt="Issues Badge"/></a>
-  <a href="https://github.com/Nexus-3D/Nexus3D/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Nexus-3D/Nexus3D" alt="License Badge"/></a>
+  <a href="https://github.com/Nexus-3D/Nexus3D/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nexus-3D/Nexus3D" alt="License Badge"/></a>
 </div>
 
 <div align="center">
@@ -163,7 +163,7 @@ Our development process follows an agile methodology with two-week sprints:
 5. **Review**: Sprint retrospective and planning for next cycle
 
 <div align="center">
-  <img src="https://mermaid.ink/img/pako:eNptkU1PwzAMhv9KlHOh0jYJut1QD-wAbRNMSAhx8FI3jUjTKHFAQ-W_4zYd28Qusd_Hjp34DFpbhAJO1hxfs9q89ypvG6vRkOnC127X6ZqcaYWX8FZ2ZtUEUTvDeivhUVkkcW4vLNKpdC1tki_BoUXnFRx6T88wryLnrEY6mGBTg2t77vt-cntTwjHGWBBOXuD3RimXpMk4hHE-CbOvCi5j_J7GeJGRCzGJb56naBpwG1S1pTWpvkI6zLIsnyWTaZpOxpP8kI6zgmScj2P-n_vZXXq_oYAejAVFdbilpQdjSXAuYQce7g4NdIr36FzbdNCLgxJOFOQWfYcFDDy2-F3CH8_-dXk" alt="Development Process">
+  <img src="./workflow.png" alt="Development Process">
 </div>
 
 ## Technology Stack
