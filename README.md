@@ -51,35 +51,35 @@ To become the infrastructure for 3D content creation and application in the Web3
     <tr>
       <td>Core Engine</td>
       <td>
-        <img src="https://progress-bar.dev/80" width="100" alt="80%">
+        <img src="https://img.shields.io/badge/progress-80%25-brightgreen" width="100" alt="80%">
       </td>
       <td>Beta Testing</td>
     </tr>
     <tr>
       <td>Marketplace</td>
       <td>
-        <img src="https://progress-bar.dev/70" width="100" alt="70%">
+        <img src="https://img.shields.io/badge/progress-70%25-yellow" width="100" alt="70%">
       </td>
       <td>In Development</td>
     </tr>
     <tr>
       <td>AI Integration</td>
       <td>
-        <img src="https://progress-bar.dev/40" width="100" alt="40%">
+        <img src="https://img.shields.io/badge/progress-40%25-orange" width="100" alt="40%">
       </td>
       <td>Early Stage</td>
     </tr>
     <tr>
       <td>Web3 Integration</td>
       <td>
-        <img src="https://progress-bar.dev/90" width="100" alt="90%">
+        <img src="https://img.shields.io/badge/progress-90%25-brightgreen" width="100" alt="90%">
       </td>
       <td>Near Completion</td>
     </tr>
     <tr>
       <td>UI/UX</td>
       <td>
-        <img src="https://progress-bar.dev/85" width="100" alt="85%">
+        <img src="https://img.shields.io/badge/progress-85%25-brightgreen" width="100" alt="85%">
       </td>
       <td>Final Refinement</td>
     </tr>
@@ -163,7 +163,7 @@ Our development process follows an agile methodology with two-week sprints:
 5. **Review**: Sprint retrospective and planning for next cycle
 
 <div align="center">
-  <img src="./workflow.png" alt="Development Process">
+  <img src="https://raw.githubusercontent.com/Nexus-3D/Nexus3D/main/workflow.png" alt="Development Process">
 </div>
 
 ## Technology Stack
